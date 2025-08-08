@@ -1,1 +1,3 @@
-# 2025_ETEC_SQL_InnerJoin_SubQuery_GroupBy
+## Exercícios de Fixação: Inner Join, SubQuery e Group By
+
+Este conjunto de exercícios foi elaborado para a disciplina de Banco de Dados II (BDII), com o objetivo de reforçar e aplicar na prática os conceitos estudados em sala. O conteúdo abrange consultas utilizando INNER JOIN para relacionar tabelas, SubQuery para criar consultas aninhadas e GROUP BY para agrupar e analisar dados de forma eficiente.
