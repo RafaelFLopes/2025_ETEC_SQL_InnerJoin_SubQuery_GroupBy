@@ -1,0 +1,1 @@
+# 2025_ETEC_SQL_InnerJoin_SubQuery_GroupBy
